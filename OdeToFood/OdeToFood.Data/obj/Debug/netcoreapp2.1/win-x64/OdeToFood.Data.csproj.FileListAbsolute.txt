@@ -1,0 +1,13 @@
+c:\apps\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.deps.json
+c:\apps\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.runtimeconfig.json
+c:\apps\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.runtimeconfig.dev.json
+c:\apps\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.dll
+c:\apps\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.pdb
+c:\apps\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Core.dll
+c:\apps\OdeToFood\OdeToFood.Data\bin\Debug\netcoreapp2.1\win-x64\OdeToFood.Core.pdb
+c:\apps\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csproj.CoreCompileInputs.cache
+c:\apps\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.AssemblyInfoInputs.cache
+c:\apps\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.AssemblyInfo.cs
+c:\apps\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.csproj.CopyComplete
+c:\apps\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.dll
+c:\apps\OdeToFood\OdeToFood.Data\obj\Debug\netcoreapp2.1\win-x64\OdeToFood.Data.pdb
